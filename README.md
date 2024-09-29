@@ -1,7 +1,5 @@
 # ServicesWindowsPython
 
-# ServicesWindowsPython
-
 Ce projet contient un service Windows écrit en Python pour la gestion de caméra. 
 cela ma permit de tester la gestion des services windows en python.
 Le service exécute un script Python qui écrit "Hello World" dans un fichier toutes les minutes.
